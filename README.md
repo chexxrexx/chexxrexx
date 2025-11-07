@@ -12,7 +12,7 @@ Here are some projects to check out!
 
 - 🐾[`Dog skin disease detector`](https://dogskinimagedetection.streamlit.app/)
   Lead AI/ML developer and backend development
-- 💻[`HackTheBurghXII`](hacktheburgh.com/)
+- 💻[`HackTheBurghXII`](https://www.hacktheburgh.com/)
   Frontend developer (that register button took a lot of hours, maths and clip-pathing madness)
 - 🧍[`Charity clicker`](https://charity-clicker-xnwk.vercel.app/)
   Full stack dev for charity clicker - made with react.js, html, css, and vercel
