@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Yuna!
+
+I'm a Comp Sci student at the University of Edinburgh, interested in AI/ML and robotics 🔧
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chexxrexx)](https://github.com/chexxrexx/github-readme-stats)
 
 <!--
 **chexxrexx/chexxrexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
